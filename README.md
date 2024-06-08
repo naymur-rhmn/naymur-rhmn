@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/naymur-rhmn/naymur-rhmn/blob/main/linkedin-cover.png?raw=true"  />
+  <img height="200" wudtgh="100%" src="https://github.com/naymur-rhmn/naymur-rhmn/blob/main/linkedin-cover.png?raw=true"  />
 </div>
 
 ###
