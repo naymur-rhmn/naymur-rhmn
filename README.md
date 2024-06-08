@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/D5616AQGJ6DOSuF1wrQ/profile-displaybackgroundimage-shrink_350_1400/0/1717755687982?e=1723075200&v=beta&t=QSVdYxtKjR2efG6vJKdbI7lHKf-kHd6-vh4IIu0XJmY"  />
+  <img height="150" src="https://github.com/naymur-rhmn/naymur-rhmn/blob/main/linkedin-cover.png?raw=true"  />
 </div>
 
 ###
