@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi👋 I'm Mohammad Naymur Rahman </h1>
 
 ###
 
